@@ -1,21 +1,26 @@
-## Hi there 👋 I'm Maryam Galal!
+## Hi, I'm Maryam Galal!
 
-🎓 I'm a college student passionate about **Data Science**, **Data Analysis**, and **Education**.  
-📊 Currently studying in the **Digital Egypt Pioneers Initiative (AI & Data Science – Data Scientist track)**.
+## Programmer, Data Analyst
 
----
+## 💻 Projects
 
-### 💡 About Me
-- 🔍 I love exploring insights hidden in data and turning them into meaningful stories.
-- 💻 Currently building **smart tools** using Machine Learning & NLP.
-- 👩‍🏫 I enjoy teaching coding and data to beginners and students.
-- 📚 I'm always learning — especially about **Python**, **SQL**, **Power BI**, and **Data Engineering**.
+### 📊 Data Analysis & Machine Learning
+- **Sales Forecasting and Optimization**  
+  Forecasting pipeline using ARIMA, SARIMA, Facebook Prophet, XGBoost, and LSTM for retail sales.  
+  Tools: Python, Pandas, Scikit-learn, TensorFlow, Power BI, Streamlit, MLflow, DVC  
+  📎 [Repository](https://github.com/maryam-galal/Sales-Forecasting-repo)
 
----
+- **Movies Analysis**  
+  Cleaned and visualized movie data using Power BI for insight extraction.  
+  Tools: Python, Pandas, NumPy, Power BI  
+  📎 [Repository](https://github.com/maryam-galal/Movies-Analysis-repo)
 
-### 🛠️ Projects
-- 🔎 **Amazon Smart Recommendation Tool**  
-  NLP + Clustering to classify product worth using reviews and ratings.
+- **Amazon Sentiment Analysis**  
+  NLP-based sentiment classifier for Amazon reviews.  
+  Tools: Python, Pandas, Matplotlib, Seaborn  
+  📎 *To be uploaded*
+
+### 📊 Software Projects
 
 - 🕹️ **Chicken Invaders Game**  
   A fun Java game where a spaceship fights invading chickens!
@@ -23,23 +28,12 @@
 - 🏋️‍♀️ **Gym Management System**  
   Java GUI desktop app for managing schedules, members, and subscriptions.
 
-- 🧠 **Amazon Sentiment Analysis**  
-  Using Natural Language Processing to understand customer feedback.
-
----
-
-### 🌱 Currently Learning
-- Advanced Python for Data
-- Power BI & Tableau for Visualization
-- Data Modeling & ETL
-- R for Data Science
-
 ---
 
 ### 📫 How to Reach Me
 - ✉️ Email: maryam.galal@example.com  
-- 💼 LinkedIn: [Your LinkedIn link here]  
-- 🌐 Portfolio: [https://maryamgalal.github.io](https://maryamgalal.github.io)
+- 💼 LinkedIn: https://www.linkedin.com/in/maryam-galal-sakr152259/ 
+- 🌐 Portfolio: [[https://maryamgalal.github.io](https://maryamgalal80.wixsite.com/data-analysis-by-mar)](maryamgalal-portfolio)
 
 ---
 
