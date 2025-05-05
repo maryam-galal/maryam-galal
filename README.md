@@ -33,7 +33,7 @@
 ### 📫 How to Reach Me
 - ✉️ Email: maryam.galal@example.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/maryam-galal-sakr152259/ 
-- 🌐 Portfolio: [[https://maryamgalal.github.io](https://maryamgalal80.wixsite.com/data-analysis-by-mar)](maryamgalal-portfolio)
+- 🌐 Portfolio: https://maryamgalal80.wixsite.com/data-analysis-by-mar.
 
 ---
 
