@@ -9,18 +9,14 @@
 - **📈 Sales Forecasting and Optimization**  
   A forecasting pipeline using ARIMA, SARIMA, Facebook Prophet, XGBoost, and LSTM for retail sales.  
   **Tools/Skills**: Python, Pandas, Scikit-learn, TensorFlow, Power BI, Streamlit, MLflow, DVC
-  📎 [Repository](https://github.com/maryam-galal/Sales-Forecasting-repo)
 
 - **🎬 Movies Analysis**  
   Cleaned and visualized movie data for insight extraction using Power BI.  
   **Tools/Skills**: Python, Pandas, NumPy, Power BI 
-  📎 [Repository](https://github.com/maryam-galal/Movies-Analysis-repo)
 
 - **💬 Amazon Sentiment Analysis**  
   NLP-based sentiment classifier for Amazon reviews.  
   **Tools/Skills**: Python, Pandas, Matplotlib, Seaborn, NLTK 
-  📎 *To be uploaded*
-
 ---
 
 ### 🕹️ **Software Projects**  
