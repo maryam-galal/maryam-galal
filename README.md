@@ -1,6 +1,5 @@
-### Hi, I'm Maryam Galal!
-
-### Programmer, Data Analyst
+# Hi, I'm Maryam Galal! 
+# Programmer, Data Analyst, Software Engineer
 
 ## 💻 Projects
 
