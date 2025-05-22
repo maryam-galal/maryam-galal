@@ -16,7 +16,12 @@
 
 - **💬 Amazon Sentiment Analysis**  
   NLP-based sentiment classifier for Amazon reviews.  
-  **Tools/Skills**: Python, Pandas, Matplotlib, Seaborn, NLTK 
+  **Tools/Skills**: Python, Pandas, Matplotlib, Seaborn, NLTK
+
+- **🌍 Kiva Loans Business Intelligence Project**
+Analyzed loan data from Kiva.org to uncover trends, build predictive models, and develop interactive BI dashboards.
+Objectives: Identify top-funded sectors, analyze lender behavior, forecast funded amounts, and explore time-based trends.
+Tools/Skills: Python, Pandas, Seaborn, Scikit-learn, Power BI, Time Series Analysis, ARIMA, Machine Learning, Linear Regression, Decision Tree, Random Forest, Jupyter
 ---
 
 ### 🕹️ **Software Projects**  
