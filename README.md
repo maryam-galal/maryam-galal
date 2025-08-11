@@ -1,6 +1,6 @@
 # Maryam Galal  
 **Programmer | Data Analyst | Software Engineer** 🚀  
-
+  
 I’m passionate about turning raw data into actionable insights and building software that solves real problems. With experience in data analysis, machine learning, BI dashboards, and full-stack development, I combine analytical thinking with creativity to deliver impactful solutions.  
 
 ---
@@ -18,11 +18,11 @@ I’m passionate about turning raw data into actionable insights and building so
   **Tools/Skills**: Python, Pandas, NumPy, Power BI 
 
 - **💬 Amazon Sentiment Analysis**  
-  Developed an NLP-based sentiment classifier to analyze Amazon product reviews.
+  Developed an NLP-based sentiment classifier to analyze Amazon product reviews.  
   **Tools/Skills**: Python, Pandas, Matplotlib, Seaborn, NLTK
 
-- **🌍 Kiva Loans Business Intelligence Project**
-  Analyzed loan data to uncover trends, forecast amounts, and build BI dashboards.
+- **🌍 Kiva Loans Business Intelligence Project**     
+  Analyzed loan data to uncover trends, forecast amounts, and build BI dashboards.  
   **Tools/Skills**: Python, Pandas, Seaborn, Scikit-learn, Power BI, ARIMA, Machine Learning, Jupyter
 ---
 
