@@ -1,51 +1,131 @@
-# Maryam Galal  
-**Programmer | Data Analyst | Software Engineer** 🚀  
-  
-I’m passionate about turning raw data into actionable insights and building software that solves real problems. With experience in data analysis, machine learning, BI dashboards, and full-stack development, I combine analytical thinking with creativity to deliver impactful solutions.  
+# Maryam Galal
+### Data Analyst | Aspiring Data Engineer
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
+I’m passionate about transforming **raw data into meaningful insights** and building reliable data solutions.  
 
-## **💻 Projects**
+My work focuses on **data analysis, data pipelines, and business intelligence dashboards** using **Python, SQL, and Power BI**.
 
-### 📊 **Data Analysis & Machine Learning**  
-- **📈 Sales Forecasting and Optimization**  
-  Built a forecasting pipeline using ARIMA, SARIMA, Facebook Prophet, XGBoost, and LSTM to predict retail sales and optimize inventory.  
-  **Tools/Skills**: Python, Pandas, Scikit-learn, TensorFlow, Power BI, Streamlit, MLflow, DVC
-
-- **🎬 Movies Analysis**  
-  Cleaned and visualized movie datasets to uncover audience and revenue insights.  
-  **Tools/Skills**: Python, Pandas, NumPy, Power BI 
-
-- **💬 Amazon Sentiment Analysis**  
-  Developed an NLP-based sentiment classifier to analyze Amazon product reviews.  
-  **Tools/Skills**: Python, Pandas, Matplotlib, Seaborn, NLTK
-
-- **🌍 Kiva Loans Business Intelligence Project**     
-  Analyzed loan data to uncover trends, forecast amounts, and build BI dashboards.  
-  **Tools/Skills**: Python, Pandas, Seaborn, Scikit-learn, Power BI, ARIMA, Machine Learning, Jupyter
----
-
-### 🕹️ **Software Projects**  
-- **👾 Chicken Invaders Game**  
-  Java-based space shooter where players fight invading chickens.  
-  **Tools/Skills**: Java, GUI: sfml, Game Development
-
-- **🏋️‍♀️ Gym Management System**  
-  Java GUI app for managing gym schedules, memberships, and subscriptions.  
-  **Tools/Skills**: Java, Scene builder, OOP
-
-- **🏡 RealEstatePortal**  
-  Property platform for viewing, comparing, and analyzing listings.  
-  **Tools/Skills**: C++, OOP, Data Structures, GUI (SFML/Qt)
+Through internships and projects, I have worked with real-world datasets to **clean, transform, analyze, and visualize data** to support data-driven decision making.
 
 ---
 
-## **📫 How to Reach Me**
-- ✉️ Email: [maryam.galal@gmail.com](mailto:maryamgalal80@gmail.com)  
-- 💼 LinkedIn: [Maryam Galal LinkedIn](https://www.linkedin.com/in/maryam-galal-sakr152259/)  
-- 🌐 Portfolio: [Maryam's Portfolio](https://maryamgalal80.wixsite.com/data-analysis-by-mar)
+# 🛠 Tech Stack
+
+### Programming
+- Python  
+- SQL  
+
+### Data Engineering
+- ETL Pipelines  
+- Data Cleaning  
+- Data Transformation  
+
+### Data Analysis
+- Pandas  
+- NumPy  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis  
+
+### Visualization & Business Intelligence
+- Power BI  
+- Matplotlib  
+- Seaborn  
+
+### Tools
+- Jupyter Notebook  
+- Git  
+- Docker  
+- MLflow  
+- Streamlit  
 
 ---
 
-> **“Data is the new oil — let’s refine it into insight.”** 🚀
+# 🚀 Featured Projects
+
+## 📈 Sales Forecasting and Optimization
+Predict future sales using historical data through a complete **data pipeline and forecasting workflow**.
+
+**Key Highlights**
+- Built an end-to-end **data pipeline** for data extraction, cleaning, and transformation
+- Applied **time-series forecasting models** including ARIMA, SARIMA, and LSTM
+- Designed interactive **Power BI dashboards** for visualizing trends
+- Deployed forecasting outputs using **Streamlit** and **MLflow**
+
+**Tools**
+Python • Pandas • Scikit-learn • TensorFlow/Keras • Power BI • Streamlit • MLflow • Docker  
+
+🔗 Repository  
+https://github.com/maryam-galal/Sales-Forecasting-and-Optimization-
+
+---
+
+## 🌍 Kiva Loans Business Intelligence
+Analyzed global micro-loan data to uncover borrower behavior and funding trends.
+
+**Key Highlights**
+- Cleaned and transformed large datasets using **Pandas**
+- Conducted **exploratory data analysis** to uncover regional lending patterns
+- Built interactive **Power BI dashboards** for business insights
+- Applied statistical analysis and forecasting techniques
+
+**Tools**
+Python • Pandas • Seaborn • Scikit-learn • Power BI • ARIMA • Jupyter  
+
+🔗 Repository  
+https://github.com/maryam-galal/Kiva-Loans-Business-Intelligence-Project
+
+---
+
+## 🎬 Movies Data Analysis
+Analyzed movie datasets to identify trends in ratings, genres, and revenue.
+
+**Key Highlights**
+- Performed **data cleaning and preprocessing**
+- Conducted exploratory data analysis to identify patterns
+- Built an interactive **dashboard to visualize key metrics**
+
+**Tools**
+Python • Pandas • NumPy • Power BI  
+
+🔗 Repository  
+https://github.com/maryam-galal/Movies-Analysis
+
+---
+
+## 💬 Amazon Sentiment Analysis
+Developed a sentiment classification model to analyze Amazon product reviews.
+
+**Key Highlights**
+- Preprocessed textual data using NLP techniques
+- Built a **sentiment classification model**
+- Visualized sentiment trends using data visualization tools
+
+**Tools**
+Python • Pandas • Matplotlib • Seaborn • NLTK  
+
+---
+
+# 📈 GitHub Stats
+
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-galal&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-galal&layout=compact)
+
+---
+
+# 📫 Contact
+
+**LinkedIn**  
+https://linkedin.com/in/maryam-galal-sakr152259  
+
+**Email**  
+maryamgalal80@gmail.com
