@@ -1,5 +1,5 @@
 # Maryam Galal
-### Data Analyst | Aspiring Data Engineer
+### AI & Data Engineer
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
