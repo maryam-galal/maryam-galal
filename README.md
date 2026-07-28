@@ -114,14 +114,6 @@ Python • Pandas • Matplotlib • Seaborn • NLTK
 
 ---
 
-# 📈 GitHub Stats
-
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-galal&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-galal&layout=compact)
-
----
-
 # 📫 Contact
 
 **LinkedIn**  
