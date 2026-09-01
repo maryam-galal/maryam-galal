@@ -1,123 +1,211 @@
 # Maryam Galal
-### AI & Data Engineer
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Data Engineer | Data & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 ---
 
-I’m passionate about transforming **raw data into meaningful insights** and building reliable data solutions.  
+I’m a **Data Engineer** passionate about building reliable data systems that transform raw data into actionable insights.
 
-My work focuses on **data analysis, data pipelines, and business intelligence dashboards** using **Python, SQL, and Power BI**.
+My work focuses on **data pipelines, ETL/ELT, data warehousing, SQL, Python, and big data technologies**, with additional experience in **data analytics, machine learning, and AI**.
 
-Through internships and projects, I have worked with real-world datasets to **clean, transform, analyze, and visualize data** to support data-driven decision making.
+Through internships, training, and projects, I have designed data warehouses, developed ETL workflows, processed real-world datasets, and built analytics solutions using **Python, SQL, PostgreSQL, Apache Spark, Hadoop, Power BI, and Docker**.
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming
-- Python  
-- SQL  
+### Programming & Query Languages
+
+* Python
+* SQL
+* Java
+* C++
+* R
 
 ### Data Engineering
-- ETL Pipelines  
-- Data Cleaning  
-- Data Transformation  
 
-### Data Analysis
-- Pandas  
-- NumPy  
-- Exploratory Data Analysis (EDA)  
-- Statistical Analysis  
+* ETL / ELT
+* Data Pipelines
+* Data Warehousing
+* Data Integration
+* Batch Processing
+* Data Cleaning & Transformation
+* Star Schema
+* Snowflake Schema
+* Query Optimization
+* PL/pgSQL
 
-### Visualization & Business Intelligence
-- Power BI  
-- Matplotlib  
-- Seaborn  
+### Databases
 
-### Tools
-- Jupyter Notebook  
-- Git  
-- Docker  
-- MLflow  
-- Streamlit  
+* PostgreSQL
+* MongoDB
+* OLTP / OLAP
+* Database Design
+
+### Big Data
+
+* Apache Spark
+* Hadoop
+* Hive
+
+### Data Analytics & BI
+
+* Pandas
+* NumPy
+* Power BI
+* Excel
+* EDA
+* Statistical Analysis
+* Data Visualization
+
+### Machine Learning & AI
+
+* Scikit-learn
+* TensorFlow / Keras
+* XGBoost
+* NLP
+* Deep Learning
+* Feature Engineering
+* Sentence Transformers
+
+### Tools & Frameworks
+
+* Git
+* Docker
+* Linux
+* FastAPI
+* SQLAlchemy
+* MLflow
+* Streamlit
+* LangChain
+* LangGraph
+* ChromaDB
 
 ---
 
 # 🚀 Featured Projects
 
-## 📈 Sales Forecasting and Optimization
-Predict future sales using historical data through a complete **data pipeline and forecasting workflow**.
+## 🏢 Cloud Data Warehouse for Workforce Analytics
+
+Designed and deployed a cloud-based **PostgreSQL data warehouse** for workforce analytics using dimensional modeling.
 
 **Key Highlights**
-- Built an end-to-end **data pipeline** for data extraction, cleaning, and transformation
-- Applied **time-series forecasting models** including ARIMA, SARIMA, and LSTM
-- Designed interactive **Power BI dashboards** for visualizing trends
-- Deployed forecasting outputs using **Streamlit** and **MLflow**
+
+* Designed a **star schema** with fact and dimension tables
+* Built a **staging layer** for raw data ingestion and transformation
+* Developed **PL/pgSQL functions** to automate data refresh workflows
+* Applied **indexing and query optimization** to improve warehouse performance
+* Deployed the warehouse using **Neon PostgreSQL**
 
 **Tools**
-Python • Pandas • Scikit-learn • TensorFlow/Keras • Power BI • Streamlit • MLflow • Docker  
 
-🔗 Repository  
-https://github.com/maryam-galal/Sales-Forecasting-and-Optimization-
+PostgreSQL • SQL • PL/pgSQL • Data Warehousing • Star Schema • ETL/ELT • Query Optimization
+
+🔗 [Repository](https://github.com/maryam-galal/cloud-data-warehouse-workforce-analytics)
+
+---
+
+## 🤖 Constella – AI Project Management Platform
+
+An AI-powered project management platform developed as a graduation project, combining **multi-agent systems, RAG, APIs, databases, and modern web technologies**.
+
+**Key Highlights**
+
+* Built a multi-agent architecture using **LangGraph and LLMs**
+* Developed **RAG pipelines** using ChromaDB and Sentence Transformers
+* Designed and integrated **PostgreSQL** for application data
+* Developed REST APIs using **FastAPI**
+* Integrated a **Next.js / React** frontend
+* Containerized the application using **Docker**
+
+**Tools**
+
+Python • FastAPI • PostgreSQL • SQLAlchemy • LangGraph • LangChain • ChromaDB • Sentence Transformers • Docker • Next.js • React
+
+🔗 [Repository](https://github.com/bayanhaitham/constella_grad)
+
+---
+
+## 📈 Sales Forecasting and Optimization
+
+Built an end-to-end **data processing and forecasting workflow** for analyzing historical sales data and generating future demand predictions.
+
+**Key Highlights**
+
+* Built a pipeline for **data extraction, cleaning, transformation, and preparation**
+* Applied time-series forecasting models including **ARIMA, SARIMA, and LSTM**
+* Developed interactive **Power BI dashboards** to monitor sales trends and KPIs
+* Integrated forecasting outputs into a **Streamlit application**
+* Experimented with and tracked ML workflows using **MLflow**
+
+**Tools**
+
+Python • Pandas • Scikit-learn • TensorFlow/Keras • Power BI • Streamlit • MLflow
+
+🔗 [Repository](https://github.com/maryam-galal/Sales-Forecasting-and-Optimization-)
 
 ---
 
 ## 🌍 Kiva Loans Business Intelligence
-Analyzed global micro-loan data to uncover borrower behavior and funding trends.
+
+Analyzed global micro-loan data to identify borrower behavior, regional lending patterns, and funding trends.
 
 **Key Highlights**
-- Cleaned and transformed large datasets using **Pandas**
-- Conducted **exploratory data analysis** to uncover regional lending patterns
-- Built interactive **Power BI dashboards** for business insights
-- Applied statistical analysis and forecasting techniques
+
+* Cleaned and transformed large datasets using **Python and Pandas**
+* Performed **exploratory and statistical analysis**
+* Identified borrower and regional lending patterns
+* Built interactive **Power BI dashboards** to communicate business insights
 
 **Tools**
-Python • Pandas • Seaborn • Scikit-learn • Power BI • ARIMA • Jupyter  
 
-🔗 Repository  
-https://github.com/maryam-galal/Kiva-Loans-Business-Intelligence-Project
+Python • Pandas • NumPy • Power BI • Seaborn • Jupyter
+
+🔗 [Repository](https://github.com/maryam-galal/Kiva-Loans-Business-Intelligence-Project)
 
 ---
 
 ## 🎬 Movies Data Analysis
+
 Analyzed movie datasets to identify trends in ratings, genres, and revenue.
 
 **Key Highlights**
-- Performed **data cleaning and preprocessing**
-- Conducted exploratory data analysis to identify patterns
-- Built an interactive **dashboard to visualize key metrics**
+
+* Performed **data cleaning and preprocessing**
+* Conducted exploratory data analysis to identify patterns
+* Built an interactive **Power BI dashboard** to visualize key metrics
 
 **Tools**
-Python • Pandas • NumPy • Power BI  
 
-🔗 Repository  
-https://github.com/maryam-galal/Movies-Analysis
+Python • Pandas • NumPy • Power BI
+
+🔗 [Repository](https://github.com/maryam-galal/Movies-Analysis)
 
 ---
 
-## 💬 Amazon Sentiment Analysis
-Developed a sentiment classification model to analyze Amazon product reviews.
+# 📚 Currently Learning
 
-**Key Highlights**
-- Preprocessed textual data using NLP techniques
-- Built a **sentiment classification model**
-- Visualized sentiment trends using data visualization tools
-
-**Tools**
-Python • Pandas • Matplotlib • Seaborn • NLTK  
+* Apache Spark
+* Hadoop
+* Hive
+* Distributed Data Processing
+* Advanced SQL
+* Data Engineering & Big Data
 
 ---
 
 # 📫 Contact
 
-**LinkedIn**  
-https://linkedin.com/in/maryam-galal-sakr152259  
+**LinkedIn**
+https://linkedin.com/in/maryam-galal-sakr152259
 
-**Email**  
-maryamgalal80@gmail.com
+**Email**
+[maryamgalal80@gmail.com](mailto:maryamgalal80@gmail.com)
